@@ -4,5 +4,5 @@
 
 def roll
   range = (1,2,3,4,5,6)
-  puts 1 + rand(6)
+  puts rand(range)
 end
